@@ -4,7 +4,6 @@ import {
   BrowserRouter,
   Route,
   Switch,
-  Redirect
 } from 'react-router-dom'
 import { apiEndpoint } from './prismic-configuration'
 import { Preview, NotFound } from './pages'
